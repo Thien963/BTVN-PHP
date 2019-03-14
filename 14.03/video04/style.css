@@ -1,0 +1,10 @@
+#box{
+    width: 500px;
+    height: 400px;
+    background-color:blue;
+}
+#child{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
